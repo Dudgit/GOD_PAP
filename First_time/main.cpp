@@ -27,7 +27,7 @@ int main()
     double_precision_number = sqrt(double_precision_number);
     
     string my_string = "Godo egy kaka"; // a "" jelenti a stringet
-    
+    auto bc = pow(2,4);
     char character = ' '; // a ' ' jeleni a charactert röviden char-t
     
     vector<char> double_vector = {'1','.','2','.'}; // kb a 1. 2. stringgel egyenlő
@@ -50,6 +50,6 @@ int main()
     /*
     Vezetéknév::keresztnév
     */
-  // auto F_vonzo = gamma * m*M/r*r 
+  // auto F_vonzo = gamma * m*M/r*r
 
 }
