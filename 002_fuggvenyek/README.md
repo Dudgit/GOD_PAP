@@ -7,9 +7,9 @@ Ha a függvény típusa void, akkor nem tudunk visszaadni semmilyen értéket ez
 
 ## A függvény neve
 A függvény neve teljesen szabadon választható egy szavas kifejezés.Az ékezetes karaktereket érdemes kerülni, főleg ha úgyis tudunk angolul, akkor nevezzük el angolul a dolgokat :P . Ha valami informatív nevet akarunk adni a függvénynek érdemes a kis- nagybetű elválasztást vagy alulvonásokat használni.Példa:  
-Ez egy nem jo fuggveny nev  
-EzViszontNagyonJo  
-ez_ugyszinten_mukodokepes  
+- Ez egy nem jo fuggveny nev  
+- EzViszontNagyonJo  
+- ez_ugyszinten_mukodokepes  
 
 
 ## A bemeneti paraméter(ek) 
